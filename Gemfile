@@ -60,3 +60,5 @@ gem 'html2slim'
 gem 'bootstrap'
 
 gem 'rb-readline'
+
+gem 'rails_autolink'
